@@ -18,6 +18,7 @@ source:
     - pyls-memestra
     - pylsp-rope
     - python-lsp-ruff
+    - python-path-patcher
 
 
 schemas:
