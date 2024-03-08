@@ -10,7 +10,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:pypi/python-lsp-server@1.7.4?extra=all
+  id: pkg:pypi/python-lsp-server@1.10.0?extra=all
   extra_packages:
     - pylsp-mypy
     - pyls-isort
@@ -18,7 +18,7 @@ source:
     - pyls-memestra
     - pylsp-rope
     - python-lsp-ruff
-    - python-path-patcher
+    - pylsp-path-patcher
 
 
 schemas:
